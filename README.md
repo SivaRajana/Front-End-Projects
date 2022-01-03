@@ -1,3 +1,3 @@
-# Front-End-Projects
+# This is my first project with 2 days of learing HTML/CSS.
 #this is just a basic portfolio site made only with pure HTML and CSS.
-#This is my 2nd day project since i have started learing HTML/CSS.
+
